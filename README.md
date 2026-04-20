@@ -6,7 +6,7 @@
   
 <h2> Certifications </h2>
 
-- [CompTIA Security+ ](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [CompTIA Security+ ](file:///Users/nickhoward/Downloads/CompTIA%20Security+%20ce%20certificate.pdf)
 
 <h2> Connect with me:</h2>
 
