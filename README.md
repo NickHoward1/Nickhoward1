@@ -6,11 +6,11 @@
   
 <h2> Certifications </h2>
 
-- [CompTIA Security+ ](file:///Users/nickhoward/Downloads/CompTIA%20Security+%20ce%20certificate.pdf)
+- [CompTIA Security+ ](https://drive.google.com/file/d/1cSfeBCkxL7YW5vncZVphSR4nwi9DpawZ/view?usp=drive_link)
 
 <h2> Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="NickHoward | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://linkedin.com/in/
