@@ -7,7 +7,7 @@
 
 <h2> Languages </h2>
 
-  - [Python scripting ](https://github.com/NickHoward1/Python-Scripting/blob/main/README.md)
+  - [Python Scripting ](https://github.com/NickHoward1/Python-Scripting/blob/main/README.md)
 
   
 <h2> Certifications </h2>
