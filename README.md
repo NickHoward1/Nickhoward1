@@ -4,8 +4,10 @@
 
  <h3>SOC Analyst Pathway Portfolio </h3>
 
-  - [SOC Analyst Pathway Portfolio (TryHackMe) ](https://github.com/NickHoward1/ActiveDirectoryLab/tree/main)
+  - [Wireshark PCAPS & Filters ](https://github.com/NickHoward1/ActiveDirectoryLab/tree/main)
   - [Identity & Access Management Labs ](https://github.com/NickHoward1/Identity-Access-Management-Labs/blob/main/README.md)
+
+ <h3>Identity & Access Management Labs</h3>
 
 <h2> Languages </h2>
 
