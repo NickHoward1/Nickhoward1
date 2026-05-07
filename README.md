@@ -8,7 +8,7 @@
   
  <h3>Identity & Access Management Labs</h3>
 
- - [Identity & Access Management Labs ](https://github.com/NickHoward1/Identity-Access-Management-Labs/blob/main/README.md)
+ - [Microsoft Entra ID Lab ](https://github.com/NickHoward1/Identity-Access-Management-Labs/edit/main/README.md)
 
 <h2> Languages </h2>
 
