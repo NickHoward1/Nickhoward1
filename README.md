@@ -5,7 +5,7 @@
  <h3>SOC Analyst Pathway Portfolio </h3>
 
   - [Wireshark PCAPS & Filters ](https://github.com/NickHoward1/Wireshark-PCAPS-Filters)
-  - [Splunk ](https://github.com/NickHoward1/Wireshark-PCAPS-Filters)
+  - [Splunk ]((https://github.com/NickHoward1/Splunk)
   
  <h3>Identity & Access Management Labs</h3>
 
