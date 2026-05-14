@@ -10,7 +10,7 @@
   
  <h3>Identity & Access Management Labs</h3>
 
- - [Microsoft Entra ID Lab ](https://github.com/NickHoward1/Identity-Access-Management-Labs/edit/main/README.md)
+ - [Microsoft Entra ID Lab ](https://github.com/NickHoward1/Identity-Access-Management-Labs/blob/main/README.md)
  - [PowerShell Commands ](https://github.com/NickHoward1/PowerShell-Commands-/blob/main/README.md)
 
 <h2> Languages </h2>
