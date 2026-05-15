@@ -5,7 +5,7 @@
  <h3>SOC Analyst Pathway Portfolio </h3>
 
   - [Wireshark PCAPS & Filters ](https://github.com/NickHoward1/Wireshark-PCAPS-Filters/blob/main/README.md)
-  - [Alert Triage with Splunk ](https://github.com/NickHoward1/Splunk)
+  - [Alert Triage with Splunk ](https://github.com/NickHoward1/Splunk/blob/main/README.md)
   - [Splunk Filters ](https://github.com/NickHoward1/Splunk-Filters/blob/main/README.md)
   - [Azure Audit Logs - KQL ](https://github.com/NickHoward1/Azure-Audit-Logs---KQL/blob/main/README.md)
   
