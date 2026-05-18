@@ -8,8 +8,7 @@
   - [Alert Triage with Splunk ](https://github.com/NickHoward1/Splunk/blob/main/README.md)
   - [Splunk Filters ](https://github.com/NickHoward1/Splunk-Filters/blob/main/README.md)
   - [Azure Logging & Monitoring ](https://github.com/NickHoward1/Azure-Audit-Logs---KQL/blob/main/README.md)
-  - [MDE - VM & Alert Investigation ](https://github.com/NickHoward1/Microsoft-Defender-Endpoint---Onboarding-a-VM/blob/main/README.md)
-
+  - [Incident & Response in Sentinel - NIST 600-61 ](https://github.com/NickHoward1/Incident-Response-in-Sentinel-NIST-800-61-/blob/main/README.md)
   
  <h3>Identity & Access Management Labs</h3>
 
