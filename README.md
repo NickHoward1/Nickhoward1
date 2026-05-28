@@ -9,8 +9,9 @@
   - [Splunk Filters ](https://github.com/NickHoward1/Splunk-Filters/blob/main/README.md)
   - [Azure Logging & Monitoring ](https://github.com/NickHoward1/Azure-Audit-Logs---KQL/blob/main/README.md)
   - [MDE - VM Onboarding & Alert Investigation ](https://github.com/NickHoward1/Microsoft-Defender-Endpoint---Onboarding-a-VM/blob/main/README.md)
+  - [Threat Hunting - Microsoft Defender for Endpoint ](https://github.com/NickHoward1/Threat-Hunting---Microsoft-Defender-for-Endpoint/blob/main/README.md)
   - [Incident Response in Sentinel - NIST 800-61 ](https://github.com/NickHoward1/Incident-Response-in-Sentinel-NIST-800-61-/blob/main/README.md)
-  
+ 
  <h3>Identity & Access Management Labs</h3>
 
  - [Microsoft Entra ID Lab ](https://github.com/NickHoward1/Identity-Access-Management-Labs/blob/main/README.md)
