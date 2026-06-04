@@ -14,7 +14,7 @@
 
 <h3>Threat Investigation & MITRE ATT&CK</h3>
 
-  - [Data Exfiltration T](https://github.com/NickHoward1/Incident-Response-in-Sentinel-NIST-800-61-/blob/main/README.md)
+  - [Data Exfiltration - TA0010 ](https://github.com/NickHoward1/Incident-Response-in-Sentinel-NIST-800-61-/blob/main/README.md)
 
 
 <h3>Identity & Access Management Labs</h3>
