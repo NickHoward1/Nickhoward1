@@ -11,11 +11,16 @@
   - [MDE - VM Onboarding & Alert Investigation ](https://github.com/NickHoward1/Microsoft-Defender-Endpoint---Onboarding-a-VM/blob/main/README.md)
   - [Threat Hunting - Microsoft Defender for Endpoint ](https://github.com/NickHoward1/Threat-Hunting---Microsoft-Defender-for-Endpoint/blob/main/README.md)
   - [Incident Response in Sentinel - NIST 800-61 ](https://github.com/NickHoward1/Incident-Response-in-Sentinel-NIST-800-61-/blob/main/README.md)
- 
- <h3>Identity & Access Management Labs</h3>
 
- - [Microsoft Entra ID Lab ](https://github.com/NickHoward1/Identity-Access-Management-Labs/blob/main/README.md)
- - [PowerShell Commands ](https://github.com/NickHoward1/PowerShell-Commands-/blob/main/README.md)
+<h3>MITRE ATT&CK TTPs</h3>
+
+  - [Incident Response in Sentinel - NIST 800-61 ](https://github.com/NickHoward1/Incident-Response-in-Sentinel-NIST-800-61-/blob/main/README.md)
+
+
+<h3>Identity & Access Management Labs</h3>
+
+  - [Microsoft Entra ID Lab ](https://github.com/NickHoward1/Identity-Access-Management-Labs/blob/main/README.md)
+  - [PowerShell Commands ](https://github.com/NickHoward1/PowerShell-Commands-/blob/main/README.md)
 
 <h2> Languages </h2>
 
