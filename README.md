@@ -15,7 +15,7 @@
 <h3>Threat Investigation & MITRE ATT&CK</h3>
 
   - [Data Exfiltration - TA0010 ](https://github.com/NickHoward1/Data-Exfiltration-/blob/main/README.md)
-  - [Adversary-In-The-Middle - T1557 ](https://github.com/NickHoward1/Adversary-In-The-Middle---T1557-/blob/main/README.md)
+  - [Man-In-The-Middle - T1557 ](https://github.com/NickHoward1/Adversary-In-The-Middle---T1557-/blob/main/README.md)
 
 <h3>Identity & Access Management Labs</h3>
 
