@@ -25,6 +25,7 @@
 <h2> Languages </h2>
 
   - [Python Scripting ](https://github.com/NickHoward1/Python-Scripting/blob/main/README.md)
+  - [Kusto Query Language ](https://github.com/NickHoward1/Kusto-Query-Language/blob/main/README.md)
 
   
 <h2> Certifications </h2>
