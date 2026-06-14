@@ -11,7 +11,7 @@
   - [MDE - VM Onboarding & Alert Investigation ](https://github.com/NickHoward1/Microsoft-Defender-Endpoint---Onboarding-a-VM/blob/main/README.md)
   - [Threat Hunting - Microsoft Defender for Endpoint ](https://github.com/NickHoward1/Threat-Hunting---Microsoft-Defender-for-Endpoint/blob/main/README.md)
   - [Incident Response in Sentinel - NIST 800-61 ](https://github.com/NickHoward1/Incident-Response-in-Sentinel-NIST-800-61-/blob/main/README.md)
-  - [Threat Intelligence Challenge ](https://github.com/NickHoward1/Incident-Response-in-Sentinel-NIST-800-61-/blob/main/README.md)
+  - [Threat Intelligence Challenge ](https://github.com/NickHoward1/Threat-Intelligence-Challenge-/blob/main/README.md)
 
 <h3>Threat Investigation & MITRE ATT&CK</h3>
 
